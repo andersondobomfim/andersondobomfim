@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there I'm Anderson 👋
 
-<!--
-**andersondobomfim/andersondobomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### -                                            :computer: **Main Stack** 
 
-Here are some ideas to get you started:
+:penguin: Linux ● :whale2: Docker ● :cloud: AWS ●  :shell: Shell Scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### -                                                  :gear: **Setup** 
+
+:small_blue_diamond:  Fedora Workstation  :small_blue_diamond: VsCode  :small_blue_diamond: Tilix  :small_blue_diamond: Vim  :small_blue_diamond: ZSH + [@ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+
+ ### -                                                :books: **Learning**
+
+:snake: Python
